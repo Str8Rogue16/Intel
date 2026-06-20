@@ -38,7 +38,7 @@ intel/
 ├── cve.py                 # Software inventory, CVE lookup, notification system
 ├── main.py                # (planned) Unified entry point tying all modules together
 ├── .env                    # Your secrets — never committed (see .gitignore)
-├── .env.example             # Template showing required environment variables
+├── .env            # Template showing required environment variables
 ├── .gitignore
 ├── requirements.txt
 ├── data/
